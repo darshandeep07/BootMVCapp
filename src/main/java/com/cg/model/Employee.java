@@ -14,6 +14,7 @@ public class Employee {
 	private long id;
 	private String name;
 	private int phonenumber;
+	private String Address;
 	
 	public Employee() {
 	}
